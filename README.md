@@ -23,6 +23,14 @@ node server
 
 Your app should now be running on <http://localhost:3306>. The Express server should intercept any AJAX requests from the client.
 
+### Screenshots
+
+![Screen1](ScreenShot_Video/screen1.png)
+![Screen2](ScreenShot_Video/screen2.png)
+
+### Video
+![Employee Tracker](ScreenShot_Video/video.gif)
+
 
 
 
